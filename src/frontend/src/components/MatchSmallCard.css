@@ -1,0 +1,27 @@
+.normal{
+    font-size: 1rem;
+}
+.link{
+    font-size : 1.7rem;
+    color: black;
+}
+
+.match__result{
+    font-size : 1.3rem
+}
+
+.match__small__won__card{
+    background-color: #4da375;
+    padding-left : 2rem;
+    padding-right: 2rem;
+    padding-top:0.4rem;
+    padding-bottom : 0.4rem;
+}
+
+.match__small__lost__card{
+    background-color: #a34d5d;
+    padding-left : 2rem;
+    padding-right: 2rem;
+    padding-top:0.4rem;
+    padding-bottom : 0.4rem;
+}

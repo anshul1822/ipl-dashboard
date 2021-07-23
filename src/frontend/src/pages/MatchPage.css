@@ -1,0 +1,13 @@
+.match__page{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr; */
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.year__selector{
+    /* position: absolute; */
+    /* justify-self: center; */
+    margin-top: 10vh;
+}

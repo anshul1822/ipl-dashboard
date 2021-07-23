@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
+*{
+  box-sizing : border-box;
+  padding : 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Baloo Tamma 2', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#121212;
+  color : #FFFFF6;
+  max-width: 90vw;
+  margin: 0 auto;
+}
+
+a{
+  color : rgb(124, 119, 119);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

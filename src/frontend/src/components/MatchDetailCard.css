@@ -1,0 +1,96 @@
+.match__detail__won__card{
+    display: flex;
+    justify-content: space-between;
+    /* max-width: 80vw; */
+    align-items: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: #4da375;
+    padding : 0.75rem;
+}
+
+.match__detail__lost__card{
+    display: flex;
+    justify-content: space-between;
+    /* max-width: 80vw; */
+    align-items: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: #a34d5d;
+    padding : 0.75rem;
+    
+}
+
+.match__date , .match__venue, .match__result{
+    /* margin-top : 3vh; */
+    font-size: 1.5rem;
+    color: white;
+
+
+}
+
+.latest__matches{
+    display:flex;
+    flex-direction: column;
+    row-gap: 0;
+    padding: 0;
+}
+
+.head{
+    font-size: 2rem;
+    position: absolute;
+}
+
+.noraml{
+    font-size: 1.5rem;
+}
+
+.link1{
+    font-size : 2.5rem;
+    color: black;
+    /* height: 50px; */
+}
+
+.add__detail{
+    display: flex;
+    flex-direction: column;
+    /* width:40vw; */
+    row-gap: 1rem;
+    /* margin-top: 5vh; */
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 0; */
+    /* column-gap: 4.4rem; */
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 0; */
+    /* column-gap: 3rem; */
+}
+
+.mom{
+    display: flex;
+    flex-direction: column;
+    /* column-gap: 1.8rem; */
+}
+
+.umpire{
+    display:flex;
+    flex-direction: column;
+    /* column-gap: 6.35rem; */
+}
+
+.value {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.line2{
+    display: flex;
+    align-items: baseline;
+    column-gap: 1rem;
+}

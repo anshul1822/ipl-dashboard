@@ -1,0 +1,6 @@
+.team__tile{
+    height : 15vh;
+    text-align: center;
+    border : 1px solid gold;
+    padding: 2rem;
+}
